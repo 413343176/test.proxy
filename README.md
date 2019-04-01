@@ -1,1 +1,7 @@
 # test.proxy
+
+HelloProxy为动态代理
+
+HelloMethodInterceptor为使用cglib实现的动态拦截
+
+MainTest为使用ByteBuddy实现的内部方法拦截
